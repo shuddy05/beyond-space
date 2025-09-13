@@ -11,7 +11,6 @@ import Globalimpact from "./components/Globalimpact";
 import Ourteam from "./components/Ourteam";
 import Subscribe from "./components/Subscribe";
 import Footer from "./components/Footer";
-import BacktoTop from "./components/BacktoTop";
 const App = () => {
   return (
     <div>
@@ -25,7 +24,6 @@ const App = () => {
       <Ourteam />
       <Subscribe />
       <Footer />
-      <BacktoTop />
     </div>
   );
 };
