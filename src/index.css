@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Adamina&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+
+* {
+  font-family: "Manrope", sans-serif;
+}
+.herofont {
+  font-family: "Adamina", serif;
+}
+.layout {
+  @apply max-w-[1240px] mx-auto px-6 py-6;
+}
+
+body {
+  background-color: black;
+}
+::-webkit-scrollbar {
+  display: none;
+}
