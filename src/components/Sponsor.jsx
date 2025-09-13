@@ -1,11 +1,11 @@
 import React from "react";
-import space1 from "../assets/space1.svg";
-import space2 from "../assets/space2.svg";
-import space3 from "../assets/space3.svg";
-import space4 from "../assets/space4.svg";
-import space5 from "../assets/space5.svg";
-import space6 from "../assets/space6.svg";
-import space7 from "../assets/space7.svg";
+import space1 from "../assets/Space1.svg";
+import Space2 from "../assets/Space2.svg";
+import Space3 from "../assets/Space3.svg";
+import Space4 from "../assets/Space4.svg";
+import Space5 from "../assets/Space5.svg";
+import Space6 from "../assets/Space6.svg";
+import Space7 from "../assets/Space7.svg";
 const Sponsor = () => {
   const sponpors = [
     space1,
