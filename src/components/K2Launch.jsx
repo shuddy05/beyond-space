@@ -9,7 +9,7 @@ const K2Launch = () => {
       <section className="mt-[170px] text-white layout flex flex-col lg:flex-row justify-between gap-20  items-center">
         <img src={Satellite} alt="" />
         <div>
-          <h1 className="herofont text-[58px] leading-20">
+          <h1 className="herofont text-3xl md:text-[58px] leading-20">
             K2-11 Satellite Launch
           </h1>
           <p className="text-[#B1B1B1] my-3 ">
@@ -35,7 +35,7 @@ const K2Launch = () => {
       <section className="mt-[100px] text-white layout flex flex-col lg:flex-row-reverse justify-between gap-20  items-center">
         <img src={Moonwatch} alt="" />
         <div>
-          <h1 className="herofont text-[58px] leading-20">
+          <h1 className="herofont text-3xl md:text-[58px] leading-20">
             Moon watch view with NASA
           </h1>
           <p className="text-[#B1B1B1] my-3 ">
